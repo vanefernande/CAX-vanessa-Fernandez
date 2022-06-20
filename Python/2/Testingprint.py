@@ -1,0 +1,11 @@
+print('hola mundo')
+print('Soy Vanessa')
+print('voy en 9C')
+print('mi comida favorita es la pasta')
+print('y algo que quiera contar es que ayer me comi una crepa')
+
+print('hi world')
+print('I am Vanessa')
+print('I am in 9C')
+print('My favorite food is pasta')
+print('A thing i want to tell is that yesterday I ate a crepe')
